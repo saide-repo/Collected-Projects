@@ -1,2 +1,68 @@
 # Collected-Projects
 I will include here all possible collected projects from various source
+
+# Programming Languages
+
+- **Python**
+- **C++**
+- **C**
+- **Java**
+- **C#**
+- **JavaScript**
+- **Go**
+- **Fortran**
+- **SQL**
+- **Delphi/Object Pascal**
+- **MATLAB**
+- **Rust**
+- **Ruby**
+- **Scratch**
+- **PHP**
+- **Swift**
+- **Assembly**
+- **COBOL**
+- **Kotlin**
+- **Classic Visual Basic**
+- **R**
+- **SAS**
+- **Ada**
+- **Dart**
+- **D**
+- **Lisp**
+- **Prolog**
+- **Perl**
+- **Haskell**
+- **Lua**
+- **Scala**
+- **Julia**
+- **Objective-C**
+- **VBScript**
+- **GAMS**
+- **ML**
+- **Solidity**
+- **Logo**
+- **PL/SQL**
+- **Transact-SQL**
+- **PowerShell**
+- **TypeScript**
+- **Bash**
+- **Scheme**
+- **ABAP**
+- **Awk**
+- **Ladder Logic**
+- **RPG**
+- **Elixir**
+- **Groovy**
+- **Visual Basic .NET**
+- **F#**
+- **Clojure**
+- **Erlang**
+- **VHDL**
+- **Verilog**
+- **Racket**
+- **LabVIEW**
+- **Tcl**
+- **Smalltalk**
+- **Apex**
+- **ActionScript**
+
